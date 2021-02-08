@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["SiteView"],{"1d99":function(e,n,t){"use strict";t.r(n);var i=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[t("router-view")],1)},r=[],u=t("2877"),l={},c=Object(u["a"])(l,i,r,!1,null,null,null);n["default"]=c.exports}}]);
+//# sourceMappingURL=SiteView.a1004e73.js.map
